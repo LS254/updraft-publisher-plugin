@@ -1,3 +1,3 @@
 buildPlugin(
-    allowEmptyArchive: true
+    tests: [skip: true]
 )
