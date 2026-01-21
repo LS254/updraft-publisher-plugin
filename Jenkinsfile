@@ -1,1 +1,3 @@
-buildPlugin()
+buildPlugin(
+    allowEmptyArchive: true
+)
